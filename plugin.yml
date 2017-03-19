@@ -1,0 +1,32 @@
+name: SurvivalGames
+main: me.BajanAmerican.SurvivalGames.SurvivalGames
+version: 1.0
+description: >
+              My SurvivalGames plugin. 
+commands:
+     addspawn: 
+       description: Fill In Later!
+     deathmatch: 
+       description: Fill In Later!
+     delspawn: 
+       description: Fill In Later!
+     forcestart: 
+       description: Fill In Later!
+     bounty: 
+       description: Fill In Later!
+     points: 
+       description: Fill In Later!
+     setlobby: 
+       description: Fill In Later!
+     spectate: 
+       description: Fill In Later!
+     vote: 
+       description: Fill In Later!
+     hub: 
+       description: Fill In Later!
+     v: 
+       description: Fill In Later!
+     item: 
+       description: Fill In Later!
+     timerset: 
+       description: Fill In Later!
